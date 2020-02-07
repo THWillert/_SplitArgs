@@ -1,4 +1,4 @@
-# \_\_SplitArgs
+# \_SplitArgs
 AutoIt Funktion die einen String, wie die Argumente eines Funktionsaufrufs, in ein Array zerlegt
 
 ## Funktionsaufruf und Beispiel
