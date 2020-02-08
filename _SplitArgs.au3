@@ -1,8 +1,8 @@
 ; #FUNCTION# ===================================================================
-; Name ..........: __SplitArgs
+; Name ..........: _SplitArgs
 ; Description ...:
 ; AutoIt Version : V3.3.0.0
-; Syntax ........: __SplitArgs($s)
+; Syntax ........: _SplitArgs($s)
 ; Parameter(s): .: $s           - Arguments as string
 ; Return Value ..: Success      - Array
 ;                  Failure      -
@@ -10,7 +10,7 @@
 ; Date ..........: Wed Dec 23 18:40:57 CET 2009
 ; Version .......: 2.0
 ; ==============================================================================
-Func __SplitArgs($s)
+Func _SplitArgs($s)
 	Local $r[1] = [""], $t, $b1 = False, $b2 = False, $iP = 0
 
 	For $i = 1 To StringLen($s)
