@@ -40,7 +40,7 @@ Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzei
 ## Authors
 Thorsten Willert
 
-[Homepage](http://www.thorsten-willert.de/)
+[Homepage](https://www.thorsten-willert.de/software/autoit/autoit-funktionen/_splitargs)
 
 ## Lizenz
 Das Ganze steht unter der [MIT](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz
